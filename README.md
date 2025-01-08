@@ -1,4 +1,4 @@
-# Matrices Insumo-Producto: Trabajo Práctico N°2
+# Trabajo Práctico N°2: Matrices Insumo-Producto
 
 Este repositorio contiene el desarrollo del Trabajo Práctico N°2 de la materia "Álgebra Lineal Computacional" de la Universidad de Buenos Aires. 
 
