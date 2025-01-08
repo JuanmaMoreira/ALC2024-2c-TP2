@@ -20,7 +20,7 @@ Las siguientes bibliotecas son necesarias para la ejecución:
 - matplotlib 3.7.1
 - seaborn 0.12.2
 
-Dejamos un comando para poder generar un conda env para correr la entrega.
+Dejamos un comando para poder generar un `conda env` para correr la entrega.
 ```bash
 conda create --name correccion_alc_tp1 python=3.11 seaborn=0.12.2 scikit-learn=1.2.2 matplotlib=3.7.1 numpy=1.25.2 pandas=1.5.3
 conda activate correccion_alc_tp2
